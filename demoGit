@@ -11,4 +11,5 @@ funcion getUser(Id:entero):String
   
   
   line code 4
+  line code 6
 Fin funcion
